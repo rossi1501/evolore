@@ -1,1 +1,1 @@
-print("olá, meu nome é evolore!)
+print("olá, meu nome é evolore")
