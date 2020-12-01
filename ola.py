@@ -1,1 +1,0 @@
-print("olá, meu nome é evolore, como vai vc?")
