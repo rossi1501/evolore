@@ -1,0 +1,1 @@
+print('filho da puta')
