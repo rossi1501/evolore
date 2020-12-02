@@ -1,4 +1,6 @@
 {
+    "python.globalModuleInstallation": true,
+    "python.pipenvPath": "./venv/bin/python",
     "code-runner.executorMap": {
         "python": "./venv/bin/python",
     },
