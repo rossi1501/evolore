@@ -1,13 +1,11 @@
 {
-    
-    "python.pythonPath": "./venv/bin/python",
     "code-runner.executorMap": {
         "python": "./venv/bin/python",
     },
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        ".",
+        "./teste",
         "-p",
         "test_*.py"
     ],
