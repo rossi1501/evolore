@@ -1,1 +1,0 @@
-print('filho da puta')
