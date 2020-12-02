@@ -1,6 +1,6 @@
 {
     "code-runner.executorMap": {
-        "python": "venv/bin/python",
+        "python": "./venv/bin/python",
     },
     "python.testing.unittestArgs": [
         "-v",
