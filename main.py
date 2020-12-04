@@ -1,1 +1,1 @@
-print("oi douglas")
+print("oi")
