@@ -1,6 +1,5 @@
 {
     
-    "python.venvPath": "venv/bin/python3",
     "python.pythonPath": "venv/bin/python3",
     "code-runner.executorMap": {
         "python": "venv/bin/python3",
