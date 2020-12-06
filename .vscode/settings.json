@@ -1,5 +1,5 @@
 {
     "code-runner.executorMap": {
-        "python": "venv/bin/python3.9",
+        "python": "venv/bin/python3",
     }
 }
