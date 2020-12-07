@@ -1,6 +1,6 @@
 {
     "code-runner.executorMap": {
-        "python": "venv/bin/python3",
+        "python": "myenv/bin/python3",
         
     }
 }
