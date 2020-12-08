@@ -1,5 +1,5 @@
 import unittest
-from src.main import soma
+from documento.main import soma
 
 class Testsoma(unittest.TestCase):
     def test_retorno_soma_10_10(self):
